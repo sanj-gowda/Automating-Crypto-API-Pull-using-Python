@@ -11,8 +11,8 @@ This project sets up an API connection to CoinMarketCap to fetch the latest cryp
 
 ## Files
 
-- `API_SetUp.ipynb`: Jupyter notebook that sets up the API, collects data, and performs analysis.
-- `APIs.csv`: CSV file where the fetched data is stored.
+- API SetUp.ipynb: Jupyter notebook that sets up the API, collects data, and performs analysis.
+- APIs.csv: CSV file where the fetched data is stored.
 
 ## How It Works
 
